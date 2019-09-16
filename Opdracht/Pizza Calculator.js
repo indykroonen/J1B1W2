@@ -11,7 +11,7 @@ var largeAmount = prompt("Hoeveel large pizza's wilt u?");
 
 var smallTotal = smallAmount * small;
 var mediumTotal = mediumAmount * medium;
-var largeTotal = largeAmount * large;
+var largeTotal = largeAmount * large;.
 console.log("test")
 
 //Aantallen van de pizza
